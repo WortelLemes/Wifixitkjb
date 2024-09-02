@@ -40,13 +40,13 @@
     <font color="#60A830"><p style="text-align: left;"><strong>Signal Strength:</strong> Low</p>
     <font color="#60A830"><p style="text-align: left;"><strong>Status: </strong> Noconet</p>
     <font color="#60A830"><p style="text-align: left;"><strong>by: </strong   >Rohman</p>
-    <font color="#60A830"><p style="text-align: left;"><strong>contacts: </strong></strong>08542735651</p>
-   <font color="#60A830"><p style="text-align: left;"><strong>SSID:</strong> @wifi siswa</p>
+    <font color="#60A830"><p style="text-align: left;"><strong>SSID:</strong> @wifi siswa</p>
     <font color="#60A830"><p style="text-align: left;"><strong>Password: </strong> siswaskandamin</p>
     <font color="#60A830"><p style="text-align: left;"><strong>Signal Strength:</strong> strong</p>
     <font color="#60A830"><p style="text-align: left;"><strong>Status: </strong> Connect</p>
     <font color="#60A830"><p style="text-align: left;"><strong>by: </strong   >Rohman</p>
     <font color="#60A830"><p style="text-align:right;"><strong>versi</strong> 
+    <font color="#60A830"><p style="text-align: left;"><strong>contacts: </strong></strong> +6283844041272</p>
     4.0b</p>
     <font color="#60A830"><h3>WELCOME TO Hi PROJET NELVA 
     <img src="image2.png" width="300" height="200">
